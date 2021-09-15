@@ -1,0 +1,22 @@
+.header img{
+    height: 80px;
+    margin-top: 7px;
+}
+.header{
+    text-align: center;
+}
+.header nav{
+    background-color: rgb(2, 0, 15);
+    line-height: 40px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    padding: 5px;
+}
+nav a:hover{
+    background-color: gray;
+}
